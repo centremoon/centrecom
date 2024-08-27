@@ -1,0 +1,9 @@
+{
+    "ip": "public",
+    "port": 8889,
+    "buffer": 1024,
+    "welcome_message": "[green]Welcome to [b](Main Chat)[/b]\n* Check the telegram for help *\n* Use /help for commands *\n[/green]",
+    "protected_by_password": true,
+    "password": "wheat-fantastic-presuming",
+    "blacklisted_nicks": ["admin", "moderator", "root", "mod"]
+}
